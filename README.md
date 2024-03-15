@@ -1,18 +1,18 @@
-# Hi there! 👋 I am Adarsh Patel
+# Hi there! 🙋 I am Adarsh Patel
 
 I'm an Aspiring software developer graduated from NIT, Raipur. Passionate about learning and explore new things.
 
-## 🚀 Skills
+## 🤹 Skills
 
 - **Languages:** Javascript, Python, Java, Golang, C++
 - **Libraries & Frameworks:**  React.js, Express, Angular, React Native, Next.js, Django
 - **Database:** MySQL, MongoDB, PostgreSQL
 - **Tools:** Git, VS Code, IntelliJ IDEA, Postman
 
-## 🌱 Currently Learning
+## 🔰 Currently Learning
 
-- React, Typescript
-- trying to become more involved in open-source
+- React, Typescript, GraphQL
+- Node.js, React Native
 
 ## 🔗 Connect with me
 
