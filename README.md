@@ -1,6 +1,6 @@
 # Hi there! 👋 I am Adarsh Patel
 
-I'm a Aspiring backend software developer graduated from NIT, Raipur. Passionate about learning and explore new things.
+I'm an Aspiring software developer graduated from NIT, Raipur. Passionate about learning and explore new things.
 
 ## 🚀 Skills
 
