@@ -25,7 +25,18 @@ Check out my portfolio for a detailed overview of my projects and contributions.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://your-portfolio-url.com)
 
-
-## 📊 GitHub Stats
-
-[![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Idealistic7&show_icons=true&theme=radical)](https://github.com/Idealistic7)
+<details>
+    <summary>
+        <strong>View My GitHub Analytics</strong>
+    </summary>
+    <p>
+        <br />&emsp;
+        <img src="https://github-readme-stats.vercel.app/api?username=Idealistic7&show_icons=true&theme=react&count_private=true" alt="Adarsh's Overall GitHub Stats" width="45%" />&emsp;&emsp;
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Idealistic7&show_icons=true&theme=react&locale=en&layout=demo" alt="Adarsh's GitHub Streak Stats" width="45%" />
+        <br />&emsp;
+        <strong>Credits</strong>:&nbsp;
+        (1) <em><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">GitHub Readme Stats</a></em> (Created by <a href="https://github.com/anuraghazra" target="_blank">Anurag Hazra</a>)
+        <br />&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
+        (2) <em><a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">GitHub Readme Streak Stats</a></em> (Created by <a href="https://github.com/DenverCoder1" target="_blank">Jonah Lawrence</a>)
+    </p>
+</details> 
