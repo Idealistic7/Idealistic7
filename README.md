@@ -1,6 +1,6 @@
 # Hi there! 🙋 I am Adarsh Patel
 
-I'm an Aspiring software developer graduated from NIT, Raipur. Passionate about learning and explore new things.
+I'm an Aspiring Software developer graduated from NIT, Raipur. Passionate about learning and explore new things.
 
 ## 🤹 Skills
 
