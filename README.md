@@ -1,42 +1,36 @@
-# Hi there! I am Adarsh Patel
+## Hey! I'm Adarsh. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a Self Taught Software developer passionate about learning and explore new things.
+[![GitHub Idealistic7](https://img.shields.io/github/followers/Idealistic7?label=follow&style=social)](https://github.com/Idealistic7)
+[![Linkedin: Adarsh Patel](https://img.shields.io/badge/-Adarsh%20Patel-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarshpatel16/)](https://www.linkedin.com/in/adarshpatel16/)
+[![Twitter: Adarsh Patel](https://img.shields.io/twitter/follow/adarsh_patel16?style=social)](https://twitter.com/adarsh_patel16)
+<br>
+[![Gmail Badge](https://img.shields.io/badge/1610adarsh@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:1610adarsh@gmail.com)](mailto:1610adarsh@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-adarshpatel16-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/adarshpatel16/)](https://instagram.com/adarshpatel16)
+  
+## My Skills 🛠️
 
-## 🤹 Skills
+<p align>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,python,git,idea,linux,vscode,postman,vim,mongodb,postgres,mysql,npm,vercel,vite&perline=5" />
+  </a>
+</p>
 
-- **Languages:** Javascript, Python, Java, Golang, C++
-- **Libraries & Frameworks:**  React.js, Express, Angular, React Native, Next.js, Django
-- **Database:** MySQL, MongoDB, PostgreSQL
-- **Tools:** Git, VS Code, IntelliJ IDEA, Postman
+## Currently Learning 🧑‍💻
 
-## 🔰 Currently Learning
+[![My Skills](https://skillicons.dev/icons?i=ts,golang,nextjs,docker,kubernetes,grafana,aws,prometheus&perline=5)](https://skillicons.dev)
 
-- React, Typescript, GraphQL
-- Node.js, React Native
+---
 
-## 🔗 Connect with me
+![](https://komarev.com/ghpvc/?username=Idealistic7&style=plastic&abbreviated=true)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/adarshpatel16)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2)](https://twitter.com/adarsh_patel16)
+---
 
-## 🌐 Portfolio
+<p align="center">
+<a href="https://github.com/adityaoberai">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Idealistic7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idealistic7&theme=algolia"/>
+</a>
+</p>
 
-Check out my portfolio for a detailed overview of my projects and contributions.
+---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://your-portfolio-url.com)
-
-<details>
-    <summary>
-        <strong>View My GitHub Analytics</strong>
-    </summary>
-    <p>
-        <br />&emsp;
-        <img src="https://github-readme-stats.vercel.app/api?username=Idealistic7&show_icons=true&theme=react&count_private=true" alt="Adarsh's Overall GitHub Stats" width="45%" />&emsp;&emsp;
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Idealistic7&show_icons=true&theme=react&locale=en&layout=demo" alt="Adarsh's GitHub Streak Stats" width="45%" />
-        <br />&emsp;
-        <strong>Credits</strong>:&nbsp;
-        (1) <em><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">GitHub Readme Stats</a></em> (Created by <a href="https://github.com/anuraghazra" target="_blank">Anurag Hazra</a>)
-        <br />&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
-        (2) <em><a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">GitHub Readme Streak Stats</a></em> (Created by <a href="https://github.com/DenverCoder1" target="_blank">Jonah Lawrence</a>)
-    </p>
-</details> 
