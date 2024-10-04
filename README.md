@@ -11,13 +11,13 @@
 
 <p align>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,python,git,idea,linux,vscode,postman,vim,mongodb,postgres,mysql,npm,vercel,vite&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,python,git,idea,linux,vscode,postman,vim,mongodb,postgres,mysql,npm,vercel&perline=8" />
   </a>
 </p>
 
 ## Currently Learning 🧑‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=ts,golang,nextjs,docker,kubernetes,grafana,aws,prometheus&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,golang,nextjs,docker,kubernetes,grafana,aws,prometheus&perline=8)](https://skillicons.dev)
 
 ---
 
