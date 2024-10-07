@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-<a href="https://github.com/adityaoberai">
+<a href="https://github.com/Idealistic7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Idealistic7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idealistic7&theme=algolia"/>
 </a>
